@@ -1,2 +1,4 @@
 #EXTM3U
-http://iptvtree.net:8080/F28364/b1a3b4a8/264801.m3u8
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+http://iptvtree.net:8080/F28364/b1a3b4a8/264801
